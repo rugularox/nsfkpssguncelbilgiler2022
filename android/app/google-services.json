@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525358157762",
+    "project_id": "nsfguncelbilgiler",
+    "storage_bucket": "nsfguncelbilgiler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525358157762:android:b4205e73cf79392d1e505b",
+        "android_client_info": {
+          "package_name": "com.nsf.nsfkpssguncelbilgiler2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525358157762-tuj71n28e4iikhu657ica5q4fr9tesnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjuyyXNeBeSCpYabgt4CoWt-Hy7kvVasA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525358157762-tuj71n28e4iikhu657ica5q4fr9tesnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
